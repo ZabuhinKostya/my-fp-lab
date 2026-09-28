@@ -6,3 +6,6 @@ project/project/
 .bloop/
 .idea/
 .vscode/
+.env
+.agents/*.local
+.agents/sessions/
